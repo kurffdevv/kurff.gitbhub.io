@@ -1,20 +1,8 @@
 <html>
 <head>
-<style>
-p.normal {
-  font-style: normal;
-}
-
-p.italic {
-  font-style: italic;
-}
-
-p.oblique {
-  font-style: oblique;
-}
-</style>
+  <p>this is text</p>
 </head>
   <body>
-    <p class="normal"><b>hello guys !!!</b></p>
+    <p style="font-size: 24px;"><b>hello guys !!!</b></p>
   </body>
 </html>
